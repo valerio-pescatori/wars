@@ -1,0 +1,14 @@
+{
+  "name": "wars",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "war": "bun run war.ts --"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
